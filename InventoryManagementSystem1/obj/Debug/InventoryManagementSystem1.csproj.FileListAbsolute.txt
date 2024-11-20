@@ -1,0 +1,10 @@
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\bin\Debug\InventoryManagementSystem1.exe.config
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\bin\Debug\InventoryManagementSystem1.exe
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\bin\Debug\InventoryManagementSystem1.pdb
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.csproj.AssemblyReference.cache
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.Form1.resources
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.Properties.Resources.resources
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.csproj.GenerateResource.cache
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.exe
+C:\Users\Niki\source\repos\InventoryManagementSystem1\InventoryManagementSystem1\obj\Debug\InventoryManagementSystem1.pdb
